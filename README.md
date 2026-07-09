@@ -2,7 +2,7 @@
 
 This repository contains my Data Structures and Algorithms (DSA) solutions in Java.
 
-## 📚 Topics Covered
+## 📚 Topics will be Cover
 - Arrays
 - Strings
 - Linked List
