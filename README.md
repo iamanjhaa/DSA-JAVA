@@ -5,7 +5,7 @@
 
 <h1 align="center">
   Hii This Is My
-Data Structures & Algorithms in Java Daily 
+DSA Daily 
   challenge Repo
 </h1>
 
