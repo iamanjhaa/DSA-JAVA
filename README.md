@@ -18,13 +18,7 @@ Data Structures & Algorithms in Java
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/github/stars/iamanjhaa/DSA-JAVA?style=for-the-badge&logo=github"/>
 
 ---
 
