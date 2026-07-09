@@ -4,12 +4,13 @@
 
 
 <h1 align="center">
-  Hii I am Aman ,
-Data Structures & Algorithms in Java
+  Hii This Is My
+Data Structures & Algorithms in Java Daily 
+  challenge Repo
 </h1>
 
 <h3 align="center">
-💻 Solving DSA Problems Daily • Java Developer • Future Software Engineer
+💻 Solving DSA Problems Daily • MERN Developer
 </h3>
 
 <p align="center">
@@ -27,7 +28,6 @@ Data Structures & Algorithms in Java
 ✨ Passionate about solving Data Structures & Algorithms problems.
 
 - 💻 Language Used: **Java**
-- 🎯 Goal: Crack Top Product-Based Companies
 - 📚 Learning DSA Daily
 - 🚀 Improving Problem Solving Skills
 - ⚡ Love Java & Competitive Programming
@@ -42,7 +42,7 @@ Data Structures & Algorithms in Java
 
 ---
 
-# 🚀 Languages & Technologies
+# 👇🏻Languages & Technologies
 
 <p align="center">
 
@@ -58,7 +58,7 @@ Data Structures & Algorithms in Java
 
 ---
 
-# 📚 DSA Topics Covered
+# 📚 DSA Topics will be Cover 
 
 ✅ Arrays
 
@@ -100,31 +100,15 @@ Data Structures & Algorithms in Java
 
 ---
 
-# 📈 GitHub Statistics
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
 
 ---
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamanjhaa&theme=tokyo-night"/>
 
 </p>
 
@@ -138,7 +122,7 @@ Data Structures & Algorithms in Java
 
 
 
-# 🌐 Connect With Me
+# 💁🏻‍♂️ Connect With Me
 
 <p align="center">
 
@@ -162,7 +146,7 @@ Data Structures & Algorithms in Java
 
 ---
 
-# 💡 Quote
+# 💪🏻 Quote
 
 <p align="center">
 
