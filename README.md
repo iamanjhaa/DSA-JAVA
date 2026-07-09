@@ -1,38 +1,183 @@
-# DSA-Java
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Data%20Structure&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
 
-This repository contains my Data Structures and Algorithms (DSA) solutions in Java.
 
-## 📚 Topics will be Cover
-- Arrays
-- Strings
-- Linked List
-- Binary Search
-- Stack
-- Queue
-- Trees
-- Graphs
-- Dynamic Programming
+<h1 align="center">
+  Hii I am Aman ,
+Data Structures & Algorithms in Java
+</h1>
 
-## 🎯 Goal
-- Solve 150+ DSA problems
-- Improve problem-solving skills
-- Prepare for coding interviews
+<h3 align="center">
+💻 Solving DSA Problems Daily • Java Developer • Future Software Engineer
+</h3>
 
-## 🛠 Language
-- Java
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+DSA+Journey!;Java+DSA+Problem+Solver;Consistency+%3D+Success;Keep+Learning+%F0%9F%9A%80" />
+</p>
 
-## 📂 Folder Structure
+---
 
-DSA-Java/
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── BinarySearch/
-├── Stack/
-└── Queue/
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-## 🚀 Platforms
-- LeetCode
-- GeeksforGeeks
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge"/>
 
-⭐ If you like this repository, feel free to star it.
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge"/>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+✨ Passionate about solving Data Structures & Algorithms problems.
+
+- 💻 Language Used: **Java**
+- 🎯 Goal: Crack Top Product-Based Companies
+- 📚 Learning DSA Daily
+- 🚀 Improving Problem Solving Skills
+- ⚡ Love Java & Competitive Programming
+
+---
+
+# 👨‍💻 Coding Illustration
+
+<p align="center">
+<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
+
+---
+
+# 🚀 Languages & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+---
+
+# 📚 DSA Topics Covered
+
+✅ Arrays
+
+✅ Strings
+
+✅ Searching
+
+✅ Sorting
+
+✅ Recursion
+
+✅ Linked List
+
+✅ Stack
+
+✅ Queue
+
+✅ Hashing
+
+✅ Two Pointers
+
+✅ Sliding Window
+
+✅ Binary Search
+
+✅ Trees
+
+✅ Binary Search Tree
+
+✅ Heap
+
+✅ Dynamic Programming
+
+✅ Greedy Algorithms
+
+✅ Graph
+
+✅ Backtracking
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+ 
+<h2>Happy Coding </h2>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="650"/>
+</p>
+
+
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:amanjha411@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aman-kumar-jhaa?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/amankr77">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://share.google/pkKaTZpA2EXjslJ59">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+> **"Consistency Beats Talent When Talent Doesn't Work Hard."**
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ If you like this repository, don't forget to Star it! ⭐
+</h3>
