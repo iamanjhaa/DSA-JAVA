@@ -1,3 +1,7 @@
+//it is bruteForce solution. optimization solution  is in HashMap
+
+
+
 public class Stringsss {
     public static void main(String[] args){
         String s = "ammannjhhaa";
