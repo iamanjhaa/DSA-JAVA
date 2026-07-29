@@ -15,3 +15,11 @@ public class ArrayLeaders {
         FindLeader(arr);
     }
 }
+
+ex [16,17,4,3,5,2]
+    output : 17,5,2 
+
+
+
+    // we should find the max numbers from right side end and compare with Previous one if found greater number 
+    //Compare with next then print also them and continue step by step compare 
