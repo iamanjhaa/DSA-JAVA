@@ -47,7 +47,7 @@ if((n & 1) == 1){
     }
 
     public static void main(String[] args) {
-
+// give here accordingly function name with parameter's value
 System.out.println(clearRange(15, 2 ,4 ));
 
 
