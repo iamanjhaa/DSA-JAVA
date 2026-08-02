@@ -1,0 +1,35 @@
+ // using api backend we will only guess number which  is secret in backend 
+// let's say secret number is 6 
+// try to guess number given 10 
+// guess(6)   return!!  yes correct guess 
+
+/** 
+ * Forward declaration of guess API.
+ * @param  num   your guess
+ * @return 	     -1 if num is higher than the picked number
+ *			      1 if num is lower than the picked number
+ *               otherwise return 0
+ * int guess(int num);
+ */
+
+public class Solution extends GuessGame {
+    public int guessNumber(int n) {
+
+        int low =0;
+        int high = n;
+        while(low <=high){
+            int mid = low + (high - low)/2;
+            int result = guess(mid);
+
+            if(result == 0){
+                return mid;
+            }else if( result == 1){
+                low = mid +1 ;
+            }else{
+                high = mid -1;
+            }
+        }
+        return -1;
+        
+    }
+}
